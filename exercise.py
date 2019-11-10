@@ -7,6 +7,13 @@ cat_dog('catdog') → True
 cat_dog('catcat') → False
 cat_dog('1cat1cadodog') → True
 
+fdsf
+
+
+
+dsf
+
+
 
 def cat_dog(str):
   c = 0
